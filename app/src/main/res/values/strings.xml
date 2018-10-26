@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Asean</string>
+
+    <string-array name="aseans_name">
+        <item>Indonesia</item>
+        <item>Malaysia</item>
+        <item>Singapura</item>
+        <item>Thailand</item>
+        <item>Filipina</item>
+        <item>Vietnam</item>
+        <item>Myanmar</item>
+        <item>Kamboja</item>
+        <item>Burnei</item>
+        <item>Laos</item>
+    </string-array>
+
+    <string-array name="aseans_detail">
+        <item>Indonesia adalah salah satu negara pendiri ASEAN. Ibukota Indonesia adalah Jakarta sedangkan mata uangnya adalah rupiah Indonesia. Negara ini juga menjadi negara terluas di Asia Tenggara dengan luas wilayah terbesar dan jumlah penduduk terbanyak.
+             Sebagai negara kepulauan, Indonesia juga memiliki peran penting dalam bidang kemaritiman di wilayah Asia Tenggara. Selain itu kondisi geografis Indonesia cukup strategis karena berada di sebelah selatan dan berbatasan dengan benua Australia dan kawasan Oceania.</item>
+        <item>Malaysia adalah negara anggota ASEAN yang beribukota di Kuala Lumpur. Mata uang negara Malaysia adalah ringgit Malaysia. Malaysia adalah negara tetangga Indonesia. Pendapatan per kapita negara Malaysia pun cukup tinggi untuk standar negara negara ASEAN.</item>
+        <item>Singapura termasuk negara Asia Tenggara dengan luas wilayah paling kecil. Meski begitu Singapura merupakan negara terkaya di Asia Tenggara dan salah satu negara terkaya di dunia. Sebagai negara maju di Asia Tenggara, pendapatan per kapita dan standar hidup di Singapura menempati peringkat 1 di antara negara negara ASEAN lainnya.</item>
+        <item>Thailand adalah negara Asia Tenggara yang berbentuk monarki kerajaan. Ibukota Thailand adalah Bangkok sementara mata uangnya adalah Baht Thailand. Thailand menjadi salah satu negara pendiri ASEAN. Pertama kali ASEAN juga dibentuk di kota Bangkok lewat persetujuan Deklarasi Bangkok.</item>
+        <item>Filipina adalah negara anggota ASEAN yang merupakan negara kepulauan. Negara ini beribukota di Manilla dan mata uangnya adalah Peso Filipina. Filipina menjadi negara dengan jumlah penduduk terbanyak kedua di ASEAN setelah Indonesia.</item>
+        <item>Vietnam merupakan negara ASEAN yang baru pertama bergabung sejak tanggal 28 Juli 1995. Ibukota Vietnam adalah Hanoi sedangkan mata uangnya adalah Dong Vietnam. Luas wilayah Vietnam adalah 331 ribu sementara jumlah penduduknya sekitar 92 juta jiwa.</item>
+        <item>Myanmar adalah negara anggota ASEAN yang beribukota di Naypyidaw. Mata uang Myanmar adalah Kyat Myanmar. Dulunya negara ini dikenal dengan nama Burma. Myanmar sendiri baru bergabung dengan organisasi ASEAN sejak 23 Juli 1997.</item>
+        <item>Kamboja merupakan salah satu dari 10 negara ASEAN. Negara ini pertama bergabung dengan ASEAN pada tanggal 30 April 1999. Ibukota negara Kamboja adalah Phnom Penh sementara mata uangnya adalah Riel Kamboja. Bahasa nasional yang digunakan di Kamboja adalah Khmer.</item>
+        <item>Brunei atau sering juga disebut sebagai Brunei Darussalam merupakan anggota ASEAN sejak 8 Januari 1984. Negara ini termasuk negara maju dengan pendapatan per kapita tertinggi kedua di wilayah ASEAN setelah Singapura. Ibukota Brunei adalah Bandar Seri Begawan sedangkan mata uangnya adalah Dollar Brunei.</item>
+        <item>Laos pertama bergabung dengan organisasi ASEAN sejak tanggal 23 Juli 1997. Ibukota Laos adalah Vientiane sementara mata uangnya adalah Kip Laos. Laos menjadi salah satu negara termiskin di ASEAN dilihat dari pendapatan per kapitanya yang relatif rendah.</item>
+    </string-array>
+
+</resources>
